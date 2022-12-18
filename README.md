@@ -1,8 +1,7 @@
 # Tribute-Page]
 
 
-This repository contains all my 100 Days of FilanTech Coding challenges. At the end of this 100 Days of FilanTech Coding Challenge journey, I would like to build a rich portfolio of FullStack Web Development Skills and projects.
-
+This repository contains second part of FreeCodeCamp's Responsive Web Design Course .
 ## Contents
 [Part one]
 * [Learn Accessibility by Building a Quiz](https://github.com/Abdiwali-Eid/Tribute-Page/tree/main/Learn%20Accessibility%20by%20Building%20a%20Quiz)
